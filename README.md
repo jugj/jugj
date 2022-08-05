@@ -21,7 +21,8 @@ Für alle, die jetzt schon voll motiviert sind und gerne weiter Unity lernen wol
 *Ansprechpartner: Felix*
 
 Um die Programme auch aus der Junior Uni herunterladen zu können, gibt es hier ein Archiv:
-* [Archiv](https://s0v.de/s/Game%20Jam%20Programme.zip). Das Passwort für die Datei bekommt ihr von uns :)
+* [Archiv](https://s0v.de/s/Game%20Jam%20Programme.zip), das Passwort für die Datei bekommt ihr von uns :)
+
 
 
 Zunächst findest du die Liste der unterstützen Musik/Datei-Formate (der jeweiligen Module) hier:
