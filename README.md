@@ -33,7 +33,7 @@ Zuletzt, für ein kleines Tutorial für das Hinzufügen von Hintergrundmusik und
 Zunächst braucht man die Grafik, die man zu einer Palette/zu Tiles verarbeiten kann.
 Um Grafik, besonders Pixelart, selbst zu machen, gibt es duzende, verschiedene Programme und Software.
 
-Eine kleine Sammlung an **Grafik-Programmen** (manche gratis, mache kosten was) findet ihr hier:
+Eine kleine Sammlung an **Grafik-Programmen** (manche gratis, manche kosten was) findet ihr hier:
 * [Grafik-Programm Liste](https://lospec.com/pixel-art-software-list/)
 
 Eine kleine Auswahl an zu empfehlenden Grafik-Tools sind:
