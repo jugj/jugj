@@ -44,8 +44,9 @@ Eine kleine Auswahl an zu empfehlenden Grafik-Tools sind:
 Wenn ihr euch in eueren Sprites in den Farben beschränken wollt, was oft gut aussieht und dem Spiel einen gewissen Charakter gibt, findet ihr hier schon vorbereitete **Farb-Paletten**:
 * [Farb-Palette Liste](https://lospec.com/palette-list)
 
-Um eine oder zwei Sprites (Zentrum und Rand) in ein Blob-Tileset zu verwandeln, gibt es folgendes Programm:
+Um eine oder zwei Sprites (Zentrum und Rand) automatisch in ein Blob-Tileset zu verwandeln, gibt es folgendes Programm:
 * [Tilesetter](https://www.tilesetter.org/), wobei es eine gratis Demo-Version gibt, die dies bereits kann. Die bezahlte Version kann noch mehr, ist aber für das leichteste Tileset nicht notwendig.
+Man kann Tilesets natürlich auch bei Hand erstellen, aber manchmal (für einefache Tilesets) kann einem dieses Programm ein bisschen Arbeit abnehmen.
 
 Es gibt natürlich wieder fertige, gratis Paletten und schon tolle vorbereitete Tilesets, wenn ihr diese nicht selber erstellen wollt.
 Euer erster Anlaufpunkt hierbei ist wieder der [Unity Asset Store](https://assetstore.unity.com/?free=true&q=tileset&orderBy=1), aber gratis Tilesets können auch hier gefunden werden:
