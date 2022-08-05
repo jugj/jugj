@@ -1,11 +1,19 @@
-### Hallo! 👋 Hier findet ihr die Materialien für den Junior Uni Game Jam.
+## Hallo! 👋 Hier findet ihr die Materialien für den Junior Uni Game Jam.
 
-#### Workshop 1: Kollaboration
+### Workshop 1: Kollaboration
 Ihr findet die notwendigen Dateien hier: [(klick)](https://s0v.de/s/Game%20Jam.zip). Das Passwort für die Datei bekommt ihr von uns :)
 
-#### Workshop 2: ...
+### Workshop 2: Unity
 
-#### Workshop 3.1: Musik und Sound
+*Ansprechpartner: Frederik*
+
+Das Beispiel, dass ihr am ersten Abend zusammen mit Frederik gebaut habt, könnt ihr in seinem gesamten Umfang nochmals hier finden:
+* [Space Shooter Beispiel](https://github.com/jugj/space-shooter-template) welches sich in unserem JUGJ Github befindet
+
+Für alle, die jetzt schon voll motiviert sind und gerne weiter Unity lernen wollen, gibt es ein tolles Tutorial von einem noch ausgefeilteren Space Shooter hier:
+* [Space Shooter Pixelnest](https://pixelnest.io/tutorials/2d-game-unity/) ein Englisches noch ausführlicheres Beispiel zum Mitcoden und zum weiteren Lernen von Unity
+
+### Workshop 3.1: Musik und Sound
 
 *Ansprechpartner: Felix*
 
@@ -26,7 +34,7 @@ Für fertige Songs und Sounds kann man außer den gratis Assets in [Unity Asset 
 Zuletzt, für ein kleines Tutorial für das Hinzufügen von Hintergrundmusik und interaktiven Spiel-Sounds gibt es diesen Teil des laufenden Unity Tutorials:
 * [nobreakpoints](https://www.youtube.com/watch?v=evi8mSZN4Yc), dessen Tutorialserie zwar schon etwas älter ist, aber die Basics gut erklärt zusammen mit einer Erklärung der Lizenzen
 
-#### Workshop 3.2: Tilemaps
+### Workshop 3.2: Tilemaps
 
 *Ansprechpartner: Felix*
 
@@ -56,6 +64,6 @@ Euer erster Anlaufpunkt hierbei ist wieder der [Unity Asset Store](https://asset
 Ein sehr schnelles Tutorial, das aber alle wichtigen Punkte und Fehlerquellen aufzählt und eine super schnelle Einführung zum Thema Tilesets darstellt ist hier:
 * [Velvary](https://www.youtube.com/watch?v=DTp5zi8_u1U) ein super schnelles, Englisches Tutorial zum Thema Tilemaps
 
-#### Workshop 4: ...
+### Workshop 4: ...
 
 
