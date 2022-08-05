@@ -1,7 +1,7 @@
 ### Hallo! 👋 Hier findet ihr die Materialien für den Junior Uni Game Jam.
 
 #### Workshop 1: Kollaboration
-Ihr findet die notwendigen Dateien hier: [Klick!](https://s0v.de/s/Game%20Jam.zip). Das Passwort für die Datei bekommt ihr von uns :)
+Ihr findet die notwendigen Dateien hier: [(klick)](https://s0v.de/s/Game%20Jam.zip). Das Passwort für die Datei bekommt ihr von uns :)
 
 #### Workshop 2: ...
 
