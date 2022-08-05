@@ -1,6 +1,9 @@
 ## Hallo! 👋 Hier findet ihr die Materialien für den Junior Uni Game Jam.
 
 ### Workshop 1: Kollaboration
+
+*Ansprechpartner: Jonas*
+
 Ihr findet die notwendigen Dateien hier: [(klick)](https://s0v.de/s/Game%20Jam.zip). Das Passwort für die Datei bekommt ihr von uns :)
 
 ### Workshop 2: Unity
@@ -16,6 +19,9 @@ Für alle, die jetzt schon voll motiviert sind und gerne weiter Unity lernen wol
 ### Workshop 3.1: Musik und Sound
 
 *Ansprechpartner: Felix*
+
+Um die Programme auch aus der Junior Uni herunterladen zu können, gibt es hier ein Archiv:
+* [(Archiv)](https://s0v.de/s/Game%20Jam%20Programme.zip). Das Passwort für die Datei bekommt ihr von uns :)
 
 Zunächst findest du die Liste der unterstützen Musik/Datei-Formate (der jeweiligen Module) hier:
 * [Unity AudioFiles](https://docs.unity3d.com/Manual/AudioFiles.html)
