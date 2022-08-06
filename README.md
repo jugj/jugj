@@ -1,20 +1,28 @@
 ## Hallo! 👋 Hier findet ihr die Materialien für den Junior Uni Game Jam.
 
-### Workshop 1: Kollaboration
+### Workshop 0: Kollaboration
 
 *Ansprechpartner: Jonas*
 
 Ihr findet die notwendigen Dateien hier: [(klick)](https://s0v.de/s/Game%20Jam.zip). Das Passwort für die Datei bekommt ihr von uns :)
 
-### Workshop 2: Unity
+### Workshop 1: Unity
 
 *Ansprechpartner: Frederik*
 
-Das Beispiel, dass ihr am ersten Abend zusammen mit Frederik gebaut habt, könnt ihr in seinem gesamten Umfang nochmals hier finden:
-* [Space Shooter Beispiel](https://github.com/jugj/space-shooter-template) welches sich in unserem JUGJ Github befindet
+Die Folien für den ersten Workshop, die Einführung in Unity, findet ihr hier:
+* [Unity Folien](https://raw.githubusercontent.com/jugj/jugj/main/Intro%20to%20Unity.pdf) in dem ihr lernt, wie ihr ein neues Unity Projekt erstellt, Objekte und Scripte baut und eure Rakete auf dem Bildschirm bewegen könnt
+* [Space Shooter Beispiel Projekt](https://github.com/jugj/space-shooter-template) ist das dazugehörige Beispiel, das ihr nochmals in dessem gesamten Umfang in den JUGJ Repo findet könnt
 
 Für alle, die jetzt schon voll motiviert sind und gerne weiter Unity lernen wollen, gibt es ein tolles Tutorial von einem noch ausgefeilteren Space Shooter hier:
 * [Space Shooter Pixelnest](https://pixelnest.io/tutorials/2d-game-unity/) ein Englisches noch ausführlicheres Beispiel zum Mitcoden und zum weiteren Lernen von Unity
+
+### Workshop 2: Physik
+
+*Ansprechpartner: Frederik*
+
+Die Folien für den Physik Workshop findet ihr hier:
+* [Physik Folien](https://github.com/jugj/jugj/raw/main/Physik.pdf)
 
 ### Workshop 3.1: Musik und Sound
 
@@ -22,7 +30,6 @@ Für alle, die jetzt schon voll motiviert sind und gerne weiter Unity lernen wol
 
 Um die Programme auch aus der Junior Uni herunterladen zu können, gibt es hier ein Archiv:
 * [Archiv](https://s0v.de/s/Game%20Jam%20Programme.zip), das Passwort für die Datei bekommt ihr von uns :)
-
 
 
 Zunächst findest du die Liste der unterstützen Musik/Datei-Formate (der jeweiligen Module) hier:
@@ -73,6 +80,17 @@ Ein sehr schnelles Tutorial, das aber alle wichtigen Punkte und Fehlerquellen au
 * [Velvary](https://www.youtube.com/watch?v=DTp5zi8_u1U) ein super schnelles, Englisches Tutorial zum Thema Tilemaps
 * [gamesplusjames](https://www.youtube.com/watch?v=nfjAznD_MaU) ein Tutorial speziell für Auto Tiles (Rule Tiles) auf Englisch für Unity
 
-### Workshop 4: ...
+### Workshop 4: Animationen
 
+*Ansprechpartner: Alistair*
 
+In diesem Workshop habt ihr gelernt Animationen zuerst mit Krita zu zeichnen und anschließend in Unity zu verwenden:
+
+**Animationen in Krita:**
+
+![Animationen in Krita](https://github.com/jugj/jugj/blob/main/Animationen%20mit%20Krita.png)
+Das Bild kann auch [hier](https://github.com/jugj/jugj/raw/main/Animationen%20mit%20Krita.png) heruntergeladen werden.
+
+**Animationen in Unity:**
+![Animationen in Unity](https://github.com/jugj/jugj/blob/main/Animationen%20mit%20Unity.png)
+Das Bild kann auch [hier](https://github.com/jugj/jugj/raw/main/Animationen%20mit%20Unity.png) heruntergeladen werden.
