@@ -71,6 +71,7 @@ Euer erster Anlaufpunkt hierbei ist wieder der [Unity Asset Store](https://asset
 
 Ein sehr schnelles Tutorial, das aber alle wichtigen Punkte und Fehlerquellen aufzählt und eine super schnelle Einführung zum Thema Tilesets darstellt ist hier:
 * [Velvary](https://www.youtube.com/watch?v=DTp5zi8_u1U) ein super schnelles, Englisches Tutorial zum Thema Tilemaps
+* [gamesplusjames](https://www.youtube.com/watch?v=nfjAznD_MaU) ein Tutorial speziell für Auto Tiles (Rule Tiles) auf Englisch für Unity
 
 ### Workshop 4: ...
 
