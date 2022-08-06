@@ -6,6 +6,8 @@
 
 Ihr findet die notwendigen Dateien hier: [(klick)](https://s0v.de/s/Game%20Jam.zip). Das Passwort für die Datei bekommt ihr von uns :)
 
+Für die Kollaboration und um den Code zwischen euch zu teilen wird [Git](https://git-scm.com/) verwendet.
+
 ### Workshop 1: Unity
 
 *Ansprechpartner: Frederik*
