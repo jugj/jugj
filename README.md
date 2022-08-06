@@ -1,4 +1,4 @@
-## Hallo! 👋 Hier findet ihr die Materialien für den Junior Uni Game Jam.
+## Hallo! 👋 Hier findet ihr die Materialien für den Junior Uni GameJam.
 
 ### Workshop 0: Kollaboration
 
