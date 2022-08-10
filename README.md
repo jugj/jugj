@@ -4,9 +4,7 @@
 
 *Ansprechpartner: Jonas*
 
-Ihr findet die notwendigen Dateien hier: [Game Jam.zip](https://s0v.de/s/Game%20Jam.zip). Das Passwort für die Datei bekommt ihr von uns :)
-
-Für die Kollaboration und um den Code zwischen euch zu teilen wird [Git](https://git-scm.com/) verwendet.
+Für die Kollaboration und um den Code zwischen euch zu teilen wird [Git](https://git-scm.com/) verwendet. Wie ihr Git verwenden könnt, erklären wir euch im Workshop!
 
 ### Workshop 1: Unity
 
@@ -29,10 +27,6 @@ Die Folien für den Physik Workshop findet ihr hier:
 ### Workshop 3.1: Musik und Sound
 
 *Ansprechpartner: Felix*
-
-Um die Programme auch aus der Junior Uni herunterladen zu können, haben wir ein Archiv erstellt:
-* [Game Jam Programme.zip](https://s0v.de/s/Game%20Jam%20Programme.zip), das Passwort für die Datei bekommt ihr von uns :)
-
 
 Zunächst findest du die Liste der unterstützen Musik/Datei-Formate (der jeweiligen Module) hier:
 * [Unity AudioFiles](https://docs.unity3d.com/Manual/AudioFiles.html)
