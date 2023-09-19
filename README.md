@@ -47,18 +47,16 @@ Zuletzt, für ein kleines Tutorial für das Hinzufügen von Hintergrundmusik und
 
 ### Workshop 3.2: Tilemaps
 
-*Ansprechpartner: Felix*
+*Ansprechpartner: Jonas*
 
-Zunächst braucht man die Grafik, die man zu einer Palette/zu Tiles verarbeiten kann.
-Um Grafik, besonders Pixelart, selbst zu machen, gibt es duzende, verschiedene Programme und Software.
+Um Grafik, insbesonderse Pixelart, selbst zu erstellen, gibt es duzende, verschiedene Programme und Software.
 
-Eine kleine Sammlung an **Grafik-Programmen** (manche gratis, manche kosten was) findet ihr hier:
+Eine kleine Sammlung an **Grafik-Programmen** (manche gratis, manche kostenpflichtig) findet ihr hier:
 * [Grafik-Programm Liste](https://lospec.com/pixel-art-software-list/)
 
 Eine kleine Auswahl an zu empfehlenden Grafik-Tools sind:
-* [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) ist ein einfacher, gratis, online Pixelart Editor direkt im Browser
-* [Pixelorama](https://orama-interactive.itch.io/pixelorama) ebenfalls ein gratis Pixelart Programm mit einem Fokus auf Animationen und beweglichen Sprites
-* [Krita](https://krita.org/) ein mächtiges, gratis, vielseitiges Grafiktool, ähnlich im Umfang wie Photoshop
+* [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) ist ein einfacher und kostenfreier Pixelart Editor, direkt im Browser
+* [Krita](https://krita.org/) ist eine mächtige, kostenfreie Grafik-Anwendung, ähnlich im Umfang wie Photoshop
 
 Wenn ihr euch in eueren Sprites in den Farben beschränken wollt, was oft gut aussieht und dem Spiel einen gewissen Charakter gibt, findet ihr hier schon vorbereitete **Farb-Paletten**:
 * [Farb-Palette Liste](https://lospec.com/palette-list)
