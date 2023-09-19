@@ -55,7 +55,7 @@ Eine kleine Sammlung an **Grafik-Programmen** (manche gratis, manche kostenpflic
 * [Grafik-Programm Liste](https://lospec.com/pixel-art-software-list/)
 
 Eine kleine Auswahl an zu empfehlenden Grafik-Tools sind:
-* [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor/) ist ein einfacher und kostenfreier Pixelart Editor, direkt im Browser
+* [Piksel](https://www.piskelapp.com/p/create/sprite) ist ein einfacher und kostenfreier Pixelart Editor, direkt im Browser
 * [Krita](https://krita.org/) ist eine mächtige, kostenfreie Grafik-Anwendung, ähnlich im Umfang wie Photoshop
 
 Wenn ihr euch in eueren Sprites in den Farben beschränken wollt, was oft gut aussieht und dem Spiel einen gewissen Charakter gibt, findet ihr hier schon vorbereitete **Farb-Paletten**:
