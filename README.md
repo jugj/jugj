@@ -86,5 +86,5 @@ In diesem Workshop habt ihr gelernt Animationen zuerst mit Krita zu zeichnen und
 Das Bild kann auch [hier](https://github.com/jugj/jugj/raw/main/Animationen%20mit%20Krita.jpg) heruntergeladen werden.
 
 **Animationen in Unity:**
-![Animationen in Unity](https://github.com/jugj/jugj/blob/main/Animationen%20mit%20Unity.png)
-Das Bild kann auch [hier](https://github.com/jugj/jugj/raw/main/Animationen%20mit%20Unity.png) heruntergeladen werden.
+![Animationen in Unity](https://github.com/jugj/jugj/blob/main/Animationen%20mit%20Unity.jpg)
+Das Bild kann auch [hier](https://github.com/jugj/jugj/raw/main/Animationen%20mit%20Unity.jpg) heruntergeladen werden.
