@@ -28,7 +28,7 @@ Die Folien für den Physik Workshop findet ihr hier:
 
 Die Folien findest du hier: [Grafiken und Audio](https://github.com/jugj/jugj/blob/main/Grafiken%20und%20Audio.pdf)
 
-### Workshop 3.1: Grafiken
+#### Workshop 3.1: Grafiken
 
 *Ansprechpartner: Jonas*
 
@@ -49,7 +49,7 @@ Euer erster Anlaufpunkt hierbei ist wieder der [Unity Asset Store](https://asset
 Ein sehr schnelles Tutorial, das aber alle wichtigen Punkte und Fehlerquellen aufzählt und eine super schnelle Einführung zum Thema Tilesets findet ist hier:
 * https://www.youtube.com/watch?v=8UctaO5DwUE
 
-### Workshop 3.2: Audio
+#### Workshop 3.2: Audio
 
 *Ansprechpartner: Dave*
 
