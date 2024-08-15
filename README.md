@@ -22,13 +22,13 @@ Für alle, die jetzt schon voll motiviert sind und gerne weiter Unity lernen wol
 *Ansprechpartner: Frederik*
 
 Die Folien für den Physik Workshop findet ihr hier:
-* [Physik Folien](https://github.com/jugj/jugj/raw/main/Physik.pdf)
+* [Physik Folien](https://github.com/jugj/jugj/blob/main/Physik.pdf)
 
 ### Workshop 3: Grafiken und Audio
 
 *Ansprechpartner: Jonas / Dave*
 
-Die Folien findest du hier: [Grafiken und Audio](https://github.com/jugj/jugj/raw/main/Grafiken%20und%20Audio.pdf)
+Die Folien findest du hier: [Grafiken und Audio](https://github.com/jugj/jugj/blob/main/Grafiken%20und%20Audio.pdf)
 
 ### Workshop 4: Animationen
 
