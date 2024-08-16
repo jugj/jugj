@@ -48,6 +48,7 @@ Euer erster Anlaufpunkt hierbei ist wieder der [Unity Asset Store](https://asset
 
 - [OpenGameArt.Org](https://opengameart.org/art-search-advanced?keys=&title=&field_art_tags_tid_op=or&field_art_tags_tid=&name=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC&items_per_page=24&Collection=): Hier findet ihr viele Sprites, Bilder und Tilemaps, ihr könnt hierbei auch nach Lizenzen sortieren
 - [Itch.io](https://itch.io/game-assets/tag-tileset): Hier gibt es viele tolle Tilesets, aber auch andere Tools und Game-Assets, oft auch gratis
+- [kenney.nl](https://kenney.nl/assets/category:2D)
 
 Ein sehr schnelles Tutorial, das alle wichtigen Punkte und Fehlerquellen aufzählt und eine super schnelle Einführung zum Thema Tilesets bietet, findest du hier:
 
