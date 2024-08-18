@@ -1,0 +1,15 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/stylesheet.uss?fileID=7433441132597879392&amp;guid=f2bc098f84b50674ab554f66c62d66f1&amp;type=3#stylesheet" />
+    <ui:VisualElement style="flex-grow: 1; background-color: rgb(46, 46, 46); color: rgb(217, 217, 217); align-items: stretch; justify-content: flex-start; align-self: stretch; flex-direction: column;">
+        <ui:Label tabindex="-1" parse-escape-sequences="true" display-tooltip-when-elided="true" name="word" />
+        <ui:VisualElement style="flex-grow: 1; flex-direction: row; height: 1%; align-items: flex-end; justify-content: center; align-self: stretch;">
+            <ui:TextField picking-mode="Ignore" label="Your Guess" name="userInput" max-length="1" style="flex-direction: column; text-overflow: ellipsis; color: rgb(183, 183, 183); background-color: rgb(46, 46, 46); -unity-background-image-tint-color: rgb(255, 255, 255); width: 70%;" />
+            <ui:Button text="OK" parse-escape-sequences="true" display-tooltip-when-elided="true" name="submit" style="width: 20%; background-color: rgb(217, 208, 0);" />
+        </ui:VisualElement>
+        <ui:Label tabindex="-1" parse-escape-sequences="true" display-tooltip-when-elided="true" name="guessedLetters" />
+        <ui:VisualElement style="flex-grow: 1; flex-direction: row;">
+            <ui:Label tabindex="-1" parse-escape-sequences="true" display-tooltip-when-elided="true" name="guesses" text="0" style="width: 50%; -unity-text-align: upper-right; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" />
+            <ui:Label tabindex="-1" parse-escape-sequences="true" display-tooltip-when-elided="true" text="/8 Guesses" style="width: 50%; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

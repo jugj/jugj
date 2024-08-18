@@ -1,0 +1,19 @@
+:root {
+    --font-color: rgb(183, 183, 183);
+    --background-color: rgb(46, 46, 46);
+    --unity-colors-button-background: rgb(217, 208, 0);
+    --unity-colors-button-background-focus:green;
+    --unity-colors-button-background-hover:red;
+    --unity-colors-button-background-hover_pressed:black;
+    --unity-colors-button-background-pressed:blue;
+
+}
+
+* {
+    color: var(--font-color);
+    background-color: var(--background-color);
+}
+
+Button {
+    color: black;
+}
