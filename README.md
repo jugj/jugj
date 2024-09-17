@@ -38,6 +38,7 @@ Eine kleine Auswahl an empfehlenswerten Grafik-Tools:
 
 - [Piskel](https://www.piskelapp.com/p/create/sprite): Ein einfacher und kostenfreier Pixelart-Editor, direkt im Browser
 - [Krita](https://krita.org/): Eine mächtige, kostenfreie Grafik-Anwendung, ähnlich im Umfang wie Photoshop
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama): Ein kostenfreier Pixelart-Editor, entweder im Browser oder zum herunterladen, der auch für Pixelart-Animationen gut geeignet ist
 
 Wenn ihr eure Sprites in den Farben beschränken wollt, was oft gut aussieht und dem Spiel einen gewissen Charakter gibt, findet ihr hier vorbereitete **Farb-Paletten**:
 
@@ -69,7 +70,7 @@ Für die Generierung von Sounds und Geräuschen (8 oder 16-bit) gibt es zwei seh
 
 Für das Komponieren und Erstellen von einfachen Tracks gibt es folgendes Programm, das man leicht in 5 Minuten lernen kann:
 
-- [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil): Ein ausgezeichnetes Musik-Programm mit Tracks und dutzenden Midi- und Chiptune-Instrumenten
+- [Bosca Ceoil Blue](https://yurisizov.itch.io/boscaceoil-blue): Ein ausgezeichnetes Musik-Programm mit Tracks und dutzenden Midi- und Chiptune-Instrumenten
 
 Für fertige Songs und Sounds kann man außer den gratis Assets im [Unity Asset Store](https://assetstore.unity.com/?category=audio&free=true&orderBy=1) auch folgende Webseiten besuchen:
 
